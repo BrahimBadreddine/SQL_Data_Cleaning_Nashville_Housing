@@ -10,6 +10,7 @@ The pipeline follows a **Medallion Architecture (Bronze → Silver → Gold)** t
 ---
 
 ## 🏗️ Data Architecture
+
 ![ETL Architecture](assets/medallion_architecture.svg)
 ### 🥉 Bronze Layer (Raw Data)
 - Direct ingestion from source dataset  
