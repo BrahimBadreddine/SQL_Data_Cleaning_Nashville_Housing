@@ -24,19 +24,20 @@ The goal is to demonstrate data cleaning, transformation using SQL.
 - Fully cleaned and validated dataset
 - Ready for BI tools and dashboards
 
-## 🔄 Pipeline Flow
-
-1. Bronze Layer → Raw ingestion
-2. Silver Layer → Cleaning & transformation
-3. Gold Layer → Analytics-ready dataset
+## 🛠️ Tech Stack
+- SQL Server
+- T-SQL
+- Data Cleaning
+- ETL Pipeline
+- Medallion Architecture
 
 ## 🧹 Key Transformations
 
 - Standardized date formats
-- Filled missing property addresses using ParcelID
+- Filled missing property addresses
 - Split address fields into structured components
 - Normalized categorical values (Y/N → Yes/No)
-- Removed duplicates using ROW_NUMBER()
+- Removed duplicates
 
 ## 📊 Final Output
 
