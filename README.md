@@ -62,4 +62,8 @@ This project demonstrates practical SQL skills in:
 - Data cleaning and transformation  
 - ETL pipeline design  
 - Data modeling using layered architecture  
-- Handling real-world messy datasets  
+- Handling real-world messy datasets
+---
+
+## 📌 Author
+Created by BRAHIM BADREDDINE
