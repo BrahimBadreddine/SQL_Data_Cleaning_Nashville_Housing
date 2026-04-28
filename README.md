@@ -5,7 +5,7 @@ This project builds an end-to-end ETL pipeline for the Nashville Housing dataset
 It follows a Medallion Architecture (Bronze → Silver → Gold) to clean, transform, and structure raw housing data for analytics and reporting.
 The goal is to demonstrate data cleaning, transformation using SQL.
 
-Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019
+**Description**: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019
 
 ## 🏗️ Data Architecture
 
