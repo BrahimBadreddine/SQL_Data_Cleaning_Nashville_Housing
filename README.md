@@ -1,7 +1,8 @@
 # 🏠 Nashville Housing Data Cleaning Project
 
 🌐 Language / Langue  
-🇬🇧 English | 🇫🇷 Français
+- English  
+- Français
 
 ---
 
